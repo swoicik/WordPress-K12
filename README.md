@@ -5,3 +5,6 @@ I started making this list when researching building a WordPress site for a scho
 
 **Florida** 
 - St. Johns County School District - http://www.stjohns.k12.fl.us/
+
+**New Jersey**
+- Newark Public Schools - http://www.nps.k12.nj.us/ This is one of the most impressive K12 WordPress setups I've seen.
