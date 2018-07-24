@@ -7,4 +7,7 @@ I started making this list when researching building a WordPress site for a scho
 - St. Johns County School District - http://www.stjohns.k12.fl.us/
 
 **New Jersey**
-- Newark Public Schools - http://www.nps.k12.nj.us/ This is one of the most impressive K12 WordPress setups I've seen.
+- Newark Public Schools - http://www.nps.k12.nj.us/ (one of the best I've seen)
+
+**Oregon**
+- Bethel School Distrcit - http://www.bethel.k12.or.us/
