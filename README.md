@@ -13,6 +13,7 @@ I started making this list when researching building a WordPress site for a scho
 - Newark Public Schools - http://www.nps.k12.nj.us/ (one of the best I've seen)
 
 **Ohio**
+- Crooksville Exempted Village Schools - http://www.crooksville.k12.oh.us/
 - Jackson City Schools - http://jcs.k12.oh.us
 
 **Oregon**
