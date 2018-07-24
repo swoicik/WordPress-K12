@@ -12,5 +12,8 @@ I started making this list when researching building a WordPress site for a scho
 **New Jersey**
 - Newark Public Schools - http://www.nps.k12.nj.us/ (one of the best I've seen)
 
+**Ohio**
+- Jackson City Schools - http://jcs.k12.oh.us
+
 **Oregon**
 - Bethel School Distrcit - http://www.bethel.k12.or.us/
