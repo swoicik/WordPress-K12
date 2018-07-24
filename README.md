@@ -25,3 +25,4 @@ I started making this list when researching building a WordPress site for a scho
 **Oregon**
 - Bethel School Distrcit - http://www.bethel.k12.or.us/
 - Salem-Keizer Public Schools - https://salkeiz.k12.or.us/
+- Lowell School Distrcit - http://www.lowell.k12.or.us/
