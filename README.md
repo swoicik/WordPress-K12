@@ -6,6 +6,9 @@ I started making this list when researching building a WordPress site for a scho
 **Arizona**
 - Civano Community School - http://civ.vail.k12.az.us/
 
+**California**
+- Canyon Elementary School - https://canyon.k12.ca.us/
+
 **Florida** 
 - St. Johns County School District - http://www.stjohns.k12.fl.us/
 
