@@ -9,6 +9,9 @@ I started making this list when researching building a WordPress site for a scho
 **Florida** 
 - St. Johns County School District - http://www.stjohns.k12.fl.us/
 
+**Iowa**
+- West Branch Community Schools- http://www.west-branch.k12.ia.us/
+
 **New Jersey**
 - Newark Public Schools - http://www.nps.k12.nj.us/ (one of the best I've seen)
 
