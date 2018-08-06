@@ -31,4 +31,4 @@ I started making this list when researching building a WordPress site for a scho
 - Lowell School Distrcit - http://www.lowell.k12.or.us/
 
 **Pennsylvania**
-- Ephrata Area School District- https://easdpa.org/ ***
+- Ephrata Area School District - https://easdpa.org/ ***
