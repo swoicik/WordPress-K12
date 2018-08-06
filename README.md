@@ -16,7 +16,7 @@ I started making this list when researching building a WordPress site for a scho
 - West Branch Community Schools- http://www.west-branch.k12.ia.us/
 
 **New Jersey**
-- Newark Public Schools - http://www.nps.k12.nj.us/ (one of the best I've seen)
+- Newark Public Schools - http://www.nps.k12.nj.us/ *** (one of the best I've seen)
 
 **North Dakota**
 - Wishek Public School - http://www.wishek.k12.nd.us/
@@ -29,3 +29,6 @@ I started making this list when researching building a WordPress site for a scho
 - Bethel School Distrcit - http://www.bethel.k12.or.us/
 - Salem-Keizer Public Schools - https://salkeiz.k12.or.us/
 - Lowell School Distrcit - http://www.lowell.k12.or.us/
+
+**Pennsylvania**
+- Ephrata Area School District- https://easdpa.org/ ***
