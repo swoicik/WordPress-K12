@@ -18,6 +18,9 @@ I started making this list when researching building a WordPress site for a scho
 **New Jersey**
 - Newark Public Schools - http://www.nps.k12.nj.us/ (one of the best I've seen)
 
+**North Dakota**
+- Wishek Public School - http://www.wishek.k12.nd.us/
+
 **Ohio**
 - Crooksville Exempted Village Schools - http://www.crooksville.k12.oh.us/
 - Jackson City Schools - http://jcs.k12.oh.us
