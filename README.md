@@ -32,3 +32,6 @@ I started making this list when researching building a WordPress site for a scho
 
 **Pennsylvania**
 - Ephrata Area School District - https://easdpa.org/ ***
+
+## Other Resources 
+- https://github.com/tomjn/WordPress-The-Right-Way
